@@ -30,11 +30,11 @@
 ###### Project: eSubhalekha
 + Practical about SEO
 
-  # 19/01/24
+# 19/01/24
 ###### Project: eSubhalekha
 + Practical about SEO
 + Researched on Photographers about packages
 
-  # 22/01/24
+# 22/01/24
 ###### Project: eSubhalekha
 + Completed the presentation task about market reasearch for eSubhalekha
