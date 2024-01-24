@@ -38,3 +38,8 @@
 # 22/01/24
 ###### Project: eSubhalekha
 + Completed the presentation task about market reasearch for eSubhalekha
+
+# 23/01/24
+###### Project: eSubhalekha
++ Created answer sheet for a quiz
++ Started workig on Chat Gpt API
