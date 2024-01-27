@@ -40,6 +40,26 @@
 + Completed the presentation task about market reasearch for eSubhalekha
 
 # 23/01/24
-###### Project: eSubhalekha
+###### Project: Kautilya Education
 + Created answer sheet for a quiz
-+ Started workig on Chat Gpt API
++ Started workig on KE Chat
+
+# 24/01/24
+###### Project: Kautilya Education
++ Worked on quiz for juniors
++ Worked on KE Chat
+
+# 25/01/24
+###### Project: Kautilya Education
++ Worked on quiz for juniors
++ Worked on KE Chat
+
+# 26/01/24
+###### Project: Kautilya Education
++ Worked on quiz for juniors
++ Worked on KE Chat Front End
+
+# 27/01/24
+###### Project: Kautilya Education
++ Worked on quiz for juniors
++ Worked on KE Chat Front End
