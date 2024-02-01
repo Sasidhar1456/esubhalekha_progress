@@ -67,3 +67,16 @@
 # 28/01/24
 ###### Project: Kautilya Education
 + Worked on KE Chat Front End
+
+# 29/01/24
+###### Project: Kautilya Education
++ Worked quiz questions
+
+# 30/01/24
+###### Project: Kautilya Education
++ Worked quiz questions
++ Worked on PhET Modules
+
+# 29/01/24
+###### Project: Kautilya Education
++ Created a demo project on Phet simulation
