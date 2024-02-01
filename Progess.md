@@ -77,6 +77,6 @@
 + Worked quiz questions
 + Worked on PhET Modules
 
-# 29/01/24
+# 31/01/24
 ###### Project: Kautilya Education
 + Created a demo project on Phet simulation
